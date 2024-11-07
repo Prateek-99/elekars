@@ -26,7 +26,7 @@ export default function Home() {
         />
         <meta name="viewport" content="width=device-width,initials-scale=1.0" />
       </Head>
-      <div className="gap- bg-blue-50">
+      <div className=" bg-blue-50">
         <Banner />
         <ComponentHeader title={"Get In Touch With Us!"} />
         <Form />
